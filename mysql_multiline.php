@@ -3,7 +3,7 @@
 xmlns="http://www.w3.org/1999/xhtml"><head
 profile="http://gmpg.org/xfn/11"><link
 rel='stylesheet' href='http://liviutudor.com/wp-content/plugins/wp-minify/min/?f=wp-content/plugins/tubepress/src/main/web/css/tubepress.css,wp-content/plugins/wp-postratings/postratings-css.css,wp-content/plugins/wp-syntax/css/wp-syntax.css,wp-content/plugins/supreme-google-webfonts/josh-font-style.css,wp-content/plugins/wp-cirrus/cirrusCloud.css,wp-content/plugins/wp-recaptcha/recaptcha.css&amp;m=1381187672' type='text/css' media='screen' /><meta
-http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Of &#8220;Big Brother&#8221; and Technology | Liviu Tudor</title><style type="text/css" media="screen">@import url( http://liviutudor.com/wp-content/themes/ocadia/style.css );</style><link
+http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>MySQL Multiline String Convert | Liviu Tudor</title><style type="text/css" media="screen">@import url( http://liviutudor.com/wp-content/themes/ocadia/style.css );</style><link
 rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://liviutudor.com/feed/" /><link
 rel="alternate" type="text/xml" title="RSS .92" href="http://liviutudor.com/feed/rss/" /><link
 rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://liviutudor.com/feed/atom/" /><link
