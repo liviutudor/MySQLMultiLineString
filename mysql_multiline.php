@@ -17,6 +17,7 @@
 		$txt = str_replace( "'", "''", $txt );
 		$txt = preg_replace( "/\r/i", "", $txt );
 		$txt = preg_replace( "/\n/i", "' \\\\\\\\n\r'", $txt);
+		//$txt = preg_replace( "/\t/i", "' \\\\\\\\t'", $txt);
 		$txt = "'" . $txt . "'";
 
 		//get rid of empty lines if needed
