@@ -4,9 +4,21 @@
 	if($form_action == '' ) {
 		$form_action = "mysql_multiline_form.php";
 	}
-	$rows = 10;
-	$columns = 80;
-	$eliminate_empty = true;
+	
+	global $rows;
+	if( !$rows ) {
+		$rows = 10;
+	}
+
+	global $columns;
+	if( !$columns ) {
+		$columns = 80;
+	}
+
+	global $eliminate_empty;
+	if( !$eliminate_empty ) {
+		$eliminate_empty = true;
+	}
 
 	//convert function
 	function safeMySQLMultiline( $txt ) {
@@ -18,7 +30,7 @@
 
 		//get rid of empty lines if needed
 		if( $eliminate_empty ) {
-
+			
 		}
 		return stripslashes($txt);
 	}
