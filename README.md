@@ -28,3 +28,8 @@ becomes:
 			'</script>\n'
 
 The single quotes get doubled as you can see and the code adds corresponding `\n` and `\t` for new lines and tabs.
+
+Files
+-----
+
+The actual form and conversion is in `mysql_multiline_form.php`, and the `mysql_multiline.php` is an example on how to embed the form in your own page. The page is formatted to match my website (http://liviutudor.com) and you can actually see it in action here: http://liviutudor.com/mysql_multiline.php#sthash.u0etbzHP.Ja0k7uRl.dpbs
